@@ -1,0 +1,278 @@
+** Message: environement.vala:58: Exporting primary_variable
+** Message: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:149: confir_dirs is null, export : /etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :
+** Message: environement.vala:218: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:219: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:527: Key file does not have key 'iGtk/ColorScheme'
+** Message: settings.vala:527: Key file does not have key 'windows_manager/command'
+** Message: settings.vala:527: Key file does not have key 'panel/command'
+** Message: settings.vala:527: Key file does not have key 'dock/command'
+** Message: settings.vala:527: Key file does not have key 'file_manager/command'
+** Message: settings.vala:527: Key file does not have key 'desktop_manager/command'
+** Message: settings.vala:527: Key file does not have key 'launcher_manager/autostart'
+** Message: settings.vala:527: Key file does not have key 'composite_manager/command'
+** Message: settings.vala:527: Key file does not have key 'im1/command'
+** Message: settings.vala:527: Key file does not have key 'im2/command'
+** Message: settings.vala:527: Key file does not have key 'widget1/command'
+** Message: settings.vala:527: Key file does not have key 'notification/command'
+** Message: settings.vala:527: Key file does not have key 'keybindings/command'
+** Message: settings.vala:527: Key file does not have key 'screensaver/command'
+** Message: settings.vala:527: Key file does not have key 'power_manager/command'
+** Message: settings.vala:527: Key file does not have key 'audio_manager/command'
+** Message: settings.vala:527: Key file does not have key 'workspace_manager/command'
+** Message: settings.vala:527: Key file does not have key 'screenshot_manager/command'
+** Message: settings.vala:527: Key file does not have key 'message_manager/command'
+** Message: settings.vala:527: Key file does not have key 'upgrade_manager/command'
+** Message: settings.vala:527: Key file does not have key 'upstart_user_session'
+** Message: settings.vala:527: Key file does not have key 'proxy_manager/http'
+** Message: settings.vala:527: Key file does not have key 'a11y/command'
+** Message: settings.vala:527: Key file does not have key 'xrandr/command'
+** Message: settings.vala:527: Key file does not have key 'network_gui/command'
+** Message: settings.vala:527: Key file does not have key 'webbrowser/command'
+** Message: settings.vala:527: Key file does not have key 'email/command'
+** Message: settings.vala:527: Key file does not have key 'pdf_reader/command'
+** Message: settings.vala:527: Key file does not have key 'video_player/command'
+** Message: settings.vala:527: Key file does not have key 'audio_player/command'
+** Message: settings.vala:527: Key file does not have key 'images_display/command'
+** Message: settings.vala:527: Key file does not have key 'text_editor/command'
+** Message: settings.vala:527: Key file does not have key 'archive/command'
+** Message: settings.vala:527: Key file does not have key 'charmap/command'
+** Message: settings.vala:527: Key file does not have key 'calculator/command'
+** Message: settings.vala:527: Key file does not have key 'spreadsheet/command'
+** Message: settings.vala:527: Key file does not have key 'bittorent/command'
+** Message: settings.vala:527: Key file does not have key 'document/command'
+** Message: settings.vala:527: Key file does not have key 'webcam/command'
+** Message: settings.vala:527: Key file does not have key 'burn/command'
+** Message: settings.vala:527: Key file does not have key 'notes/command'
+** Message: settings.vala:527: Key file does not have key 'disk_utility/command'
+** Message: settings.vala:527: Key file does not have key 'tasks/command'
+** Message: settings.vala:527: Key file does not have group 'Keymap'
+** Message: settings.vala:527: Key file does not have key 'laptop_mode'
+** Message: settings.vala:527: Key file does not have key 'gnome'
+** Message: settings.vala:527: Key file does not have group 'Updates'
+** Message: settings.vala:527: Key file does not have key 'type'
+** Message: settings.vala:449: Monitoring: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:453: Desktop file is already in config home, do nothing
+** Message: environement.vala:79: Exporting variable
+** Message: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:176: custom_config :
+** Message: environement.vala:177: config_dirs :/etc/xdg
+** Message: environement.vala:178: confir_dirs not null, export : /etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :
+** Message: environement.vala:218: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:219: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE-pi
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: options.vala:164: Activate xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: app.vala:717: polkit separate
+** Message: app.vala:717: polkit separate
+** Message: app.vala:76: Launching lxpolkit 
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: autostart.vala:42: Autostart path : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: app.vala:76: Launching lxpanel 
+** Message: app.vala:76: Launching pcmanfm 
+
+** (lxsession:660): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+
+** (lxsession:660): WARNING **: app.vala:87: Error when launching xscreensaver
+** Message: app.vala:76: Launching point-rpi 
+** Message: options.vala:107: Create build-in Clipboard
+** Message: main.vala:429: Check keymap_mode (null)
+** Message: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-hSCNDpfX5w8e/agent.736; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=738; export SSH_AGENT_PID;
+echo Agent pid 738;
+** Message: app.vala:130: point-rpi exit with this type of exit: 0
+** Message: app.vala:139: Exit normal, don't reload
+** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: Connecting ...
+** Message: Status changed to down
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+** Message: wlan0: Not associated
+** Message: wlan0: WPA status connected
+** Message: wlan0: Received scan results
+** Message: bt: Name org.bluez owned on DBus
+** Message: bt: New agent manager found
+** Message: bt: New adapter found
+** Message: va: Name org.bluez owned on DBus
+** Message: va: Stopping PulseAudio
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+** Message: eth0: Configured 169.254.166.140/16
+** Message: Status changed to connected
+** Message: wlan0: Received scan results
+bootstrap_helper: /usr/lib/chromium-browser/nacl_helper: Cannot open ELF file!  errno=2
+bootstrap_helper: /usr/lib/chromium-browser/nacl_helper: Cannot open ELF file!  errno=2
+[1:1:1201/182022.480861:ERROR:nacl_fork_delegate_linux.cc(315)] Bad NaCl helper startup ack (0 bytes)
+[1:1:1201/182022.480861:ERROR:nacl_fork_delegate_linux.cc(315)] Bad NaCl helper startup ack (0 bytes)
+[950:1028:1201/182026.733394:ERROR:connection.cc(1947)] History sqlite error 5, errno 0: database is locked, sql: DELETE FROM meta WHERE key=?
+[932:1027:1201/182026.733439:ERROR:connection.cc(1947)] History sqlite error 5, errno 0: database is locked, sql: COMMIT
+[950:1002:1201/182027.430130:ERROR:connection.cc(1947)] Passwords sqlite error 5, errno 0: database is locked, sql: INSERT OR REPLACE INTO meta (key,value) VALUES (?,?)
+[950:1002:1201/182027.430274:ERROR:connection.cc(1947)] Passwords sqlite error 5, errno 0: database is locked, sql: INSERT OR REPLACE INTO meta (key,value) VALUES (?,?)
+[932:1001:1201/182027.431002:ERROR:connection.cc(1947)] Passwords sqlite error 5, errno 0: database is locked, sql: COMMIT
+[932:1001:1201/182027.431102:ERROR:login_database.cc(609)] Unable to commit a transaction.
+[932:1001:1201/182027.492826:ERROR:password_store_default.cc(45)] Could not create/open login database.
+[932:1030:1201/182027.853530:ERROR:data_store_impl.cc(129)] Failed to open Data Reduction Proxy DB: 3
+[932:932:1201/182028.697191:ERROR:desktop_window_tree_host_x11.cc(1127)] Not implemented reached in virtual void views::DesktopWindowTreeHostX11::InitModalType(ui::ModalType)
+[950:1002:1201/182028.936539:ERROR:connection.cc(1947)] Web sqlite error 5, errno 0: database is locked, sql: COMMIT
+[950:1002:1201/182028.936750:ERROR:connection.cc(1947)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[932:1001:1201/182029.021089:ERROR:connection.cc(1947)] Web sqlite error 5, errno 0: database is locked, sql: UPDATE keywords SET short_name=?, keyword=?, favicon_url=?, url=?, safe_for_autoreplace=?, originating_url=?, date_created=?, usage_count=?, input_encodings=?, show_in_default_list=?, suggest_url=?, prepopulate_id=?, created_by_policy=?, instant_url=?, last_modified=?, sync_guid=?, alternate_urls=?, search_terms_replacement_key=?, image_url=?, search_url_post_params=?, suggest_url_post_params=?, instant_url_post_params=?, image_url_post_params=?, new_tab_url=? WHERE id=?
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+[932:1003:1201/182046.340715:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182053.411129:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182057.446629:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182058.448713:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182059.457317:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182100.458499:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182101.462229:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+[932:1003:1201/182102.464793:ERROR:value_store_frontend.cc(55)] Error while writing cjpalhdlnbpafiamejdnhcphjbkeiagm.browser_action to 
+** Message: wlan0: Received scan results
+** Message: eth0: Link is down
+** Message: Status changed to disconnected
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(pcmanfm:730): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: wlan0: Received scan results
+
+(pcmanfm:730): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+** Message: Status changed to connected
+** Message: eth0: Configured 2600:6c46:700a:300:c437:aec3:1b55:9a4f/128
+** Message: eth0: Configured 71.10.79.226/24
+bootstrap_helper: /usr/lib/chromium-browser/nacl_helper: Cannot open ELF file!  errno=2
+[1:1:1201/184712.219564:ERROR:nacl_fork_delegate_linux.cc(315)] Bad NaCl helper startup ack (0 bytes)
+[1728:1761:1201/184713.151225:ERROR:connection.cc(1947)] Web sqlite error 5, errno 0: database is locked, sql: COMMIT
+[1728:1761:1201/184713.151412:ERROR:connection.cc(1947)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+** Message: wlan0: Received scan results
+[1728:1761:1207/001117.599275:ERROR:connection.cc(1947)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+[1728:1761:1207/001145.524319:ERROR:connection.cc(1947)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+[1728:1761:1207/001150.157448:ERROR:connection.cc(1947)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+** Message: wlan0: Received scan results
+** Message: eth0: Link is down
+** Message: Status changed to disconnected
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+bootstrap_helper: /usr/lib/chromium-browser/nacl_helper: Cannot open ELF file!  errno=2
+[1:1:1207/003106.873151:ERROR:nacl_fork_delegate_linux.cc(315)] Bad NaCl helper startup ack (0 bytes)
+Created new window in existing browser session.
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Associated with NETGEAR07
+** Message: Status changed to connecting
+** Message: wlan0: Configured 192.168.1.23/24
+** Message: Status changed to connected
+[1728:1761:1207/003249.568118:ERROR:connection.cc(1947)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+[1728:1728:1207/003249.811785:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 17
+** Message: wlan0: Received scan results
+[106:106:1207/003326.645630:ERROR:KeyboardEventManager.cpp(424)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1728:1761:1207/003332.817032:ERROR:connection.cc(1947)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(openbox:724): GLib-CRITICAL **: Source ID 16 was not found when attempting to remove it
+
+(openbox:724): GLib-CRITICAL **: Source ID 18 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[106:106:1207/004527.859065:ERROR:KeyboardEventManager.cpp(424)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[1728:1761:1207/004715.305736:ERROR:connection.cc(1947)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+
+(openbox:724): GLib-CRITICAL **: Source ID 20 was not found when attempting to remove it
+
+(openbox:724): GLib-CRITICAL **: Source ID 19 was not found when attempting to remove it
+
+(openbox:724): GLib-CRITICAL **: Source ID 21 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(openbox:724): GLib-CRITICAL **: Source ID 24 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
